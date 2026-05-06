@@ -1,0 +1,12 @@
+# OS and editor noise
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# Temporary Office lock files
+~$*
+
+# Local temporary files
+*.tmp
+*.temp
+.trash/

@@ -1,0 +1,225 @@
+{
+  "main": {
+    "id": "7db6aa0754566ff6",
+    "type": "split",
+    "children": [
+      {
+        "id": "949ae1f246f55c7d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4f96b2d183159cc5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Home"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "082caec95403053b",
+    "type": "split",
+    "children": [
+      {
+        "id": "f20d9083c918af79",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bd285672e3fc7a38",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "f6d914208fe98770",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "87f5e5c395368db2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "22f71532917acd1a",
+    "type": "split",
+    "children": [
+      {
+        "id": "fda756fab1037893",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8ee102514deb8e77",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Home.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Home 的反向链接列表"
+            }
+          },
+          {
+            "id": "c1d76243ba8eba5a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Home.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Home 的出链列表"
+            }
+          },
+          {
+            "id": "132cd4f8fbcde0e4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "c4c3d569b66cbeda",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "5a10bf81ae4d4366",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Home.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Home 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "4f96b2d183159cc5",
+  "lastOpenFiles": [
+    "00_Inbox/Obsidian-AI-v1.0.0-中文版.pdf",
+    "00_Inbox/Obsidian-AI-The-Complete-Guide-v1.0.0.pdf",
+    "00_Inbox/Obsidian-AI-v1.0.0.pdf",
+    "90_System/scripts/git-preflight.ps1",
+    "90_System/scripts/git-backup.ps1",
+    "90_System/scripts",
+    "90_System/skills/personal-work-agents/references/git-sync-workflow.md",
+    "00_Inbox/Index.md",
+    "Home.md",
+    "90_System/skills/json-canvas/references/EXAMPLES.md",
+    "90_System/skills/json-canvas/SKILL.md",
+    "90_System/skills/personal-work-agents/SKILL.md",
+    "90_System/skills/personal-work-agents/references/obsidian-skills-workflow.md",
+    "90_System/skills/obsidian-markdown/SKILL.md",
+    "90_System/skills/obsidian-markdown/references/PROPERTIES.md",
+    "90_System/skills/obsidian-markdown/references/EMBEDS.md",
+    "90_System/skills/obsidian-markdown/references/CALLOUTS.md",
+    "90_System/skills/obsidian-markdown/references",
+    "90_System/skills/obsidian-markdown",
+    "90_System/skills/obsidian-cli/SKILL.md",
+    "90_System/skills/obsidian-cli",
+    "90_System/skills/obsidian-bases/references/FUNCTIONS_REFERENCE.md",
+    "90_System/skills/obsidian-bases/SKILL.md",
+    "90_System/skills/obsidian-bases/references",
+    "90_System/skills/obsidian-bases",
+    "90_System/skills/defuddle/SKILL.md",
+    "60_Daily/Index.md",
+    "90_System/skills/personal-work-agents/references/vault-organization-workflow.md",
+    "90_System/skills/personal-work-agents/references/task-ledger-workflow.md",
+    "90_System/skills/personal-work-agents/references/report-project-workflow.md",
+    "90_System/skills/personal-work-agents/references/personal-memory.md",
+    "90_System/skills/personal-work-agents/references/daily-brief-workflow.md",
+    "90_System/skills/personal-work-agents/references/assistant-catalog.md",
+    "80_Archive/Index.md",
+    "70_Templates/Project Index.md",
+    "70_Templates/Index.md"
+  ]
+}
