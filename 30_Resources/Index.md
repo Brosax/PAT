@@ -14,4 +14,4 @@ Store reusable references, templates, policies, and background material here.
 
 ## Resource Groups
 
-- 
+- [[30_Resources/Obsidian-AI/Index|Obsidian AI]] - guides for AI-assisted Obsidian vault design and maintenance.
