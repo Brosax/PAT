@@ -15,6 +15,7 @@ tags:
 - [[90_System/skills/personal-work-agents/references/vault-organization-workflow|Vault Organization Workflow]]
 - [[90_System/skills/personal-work-agents/references/obsidian-skills-workflow|Obsidian Skills Workflow]]
 - [[90_System/skills/personal-work-agents/references/git-sync-workflow|Git Sync Workflow]]
+- [[90_System/skills/personal-work-agents/references/ost-presentation-workflow|OST Presentation Workflow]]
 
 ## Git Backup
 

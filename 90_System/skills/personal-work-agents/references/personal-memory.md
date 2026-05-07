@@ -24,6 +24,7 @@ This file stores only user-confirmed preferences and work patterns.
 - Shared workgroup folder `C:\Users\A511741\DEKRA SE\I+D Team Cybersecurity - General` is read-only by default. The assistant may access it for inspection when requested, but must not create, edit, move, rename, or delete files there unless the user explicitly approves the exact file list and requested changes.
 - Approved shared write exception: `C:\Users\A511741\DEKRA SE\I+D Team Cybersecurity - General\00_Planning\01_OST\OST - XMF.pptx` may be modified to update the user's Monday morning OST presentation about current ongoing tasks. No other file in that shared folder is write-approved by this exception.
 - Weekly presentation update rhythm: update `OST - XMF.pptx` every Monday at 08:00 Europe/Madrid for the weekly morning meeting, using the personal task ledger and current work notes as sources.
+- OST update gate: before modifying `OST - XMF.pptx`, read the previous/latest slide and ask the user for progress, blockers, and whether each item should move status. The assistant must add the user's stated status/progress to the deck instead of rewriting the goals from scratch.
 
 ## Candidate Rules
 

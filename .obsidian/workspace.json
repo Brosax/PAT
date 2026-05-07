@@ -185,6 +185,7 @@
   },
   "active": "4f96b2d183159cc5",
   "lastOpenFiles": [
+    "90_System/skills/personal-work-agents/references/ost-presentation-workflow.md",
     "AGENTS.md",
     "Home.md",
     "CLAUDE.md",
@@ -219,7 +220,6 @@
     "90_System/skills/personal-work-agents/references/report-project-workflow.md",
     "90_System/skills/personal-work-agents/references/personal-memory.md",
     "90_System/skills/personal-work-agents/references/daily-brief-workflow.md",
-    "90_System/skills/personal-work-agents/references/assistant-catalog.md",
-    "80_Archive/Index.md"
+    "90_System/skills/personal-work-agents/references/assistant-catalog.md"
   ]
 }

@@ -19,6 +19,7 @@ Operate as a local-first personal work assistant for the Obsidian vault at `C:\U
 - Before modifying files in this personal vault, check git status and sync from `https://github.com/Brosax/PAT.git`; after modifications, commit and push the backup to the same repository.
 - Treat `C:\Users\A511741\DEKRA SE\I+D Team Cybersecurity - General` as a read-only shared workgroup folder by default. You may inspect files there when the user points to them, but never create, edit, move, rename, or delete anything there unless the user gives an explicit approved file list and requested change.
 - Approved shared write exception: `C:\Users\A511741\DEKRA SE\I+D Team Cybersecurity - General\00_Planning\01_OST\OST - XMF.pptx` may be updated for the user's Monday morning OST task presentation. This exception applies only to that exact file, not to its folder or neighboring files.
+- Before changing `OST - XMF.pptx`, read the previous/latest slide content and ask the user how each item is progressing and whether any status should move. Add the user's stated status/progress to the deck; do not rewrite goals from scratch.
 
 ## Workflow Router
 
@@ -30,6 +31,7 @@ Choose the smallest workflow that satisfies the request:
 - Obsidian Markdown, Canvas, Bases, CLI, or web-to-note work: read `references/obsidian-skills-workflow.md`.
 - Inbox triage, folder organization, Obsidian indexes, or archive decisions: read `references/vault-organization-workflow.md`.
 - Mixed report package or folder of work materials: read `references/report-project-workflow.md`.
+- OST presentation updates: read `references/ost-presentation-workflow.md`.
 - Choosing or creating a scenario assistant: read `references/assistant-catalog.md`.
 - Applying or updating confirmed personal preferences: read `references/personal-memory.md`.
 
