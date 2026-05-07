@@ -20,4 +20,3 @@ Use one subfolder per finite work project. Each project should include its own `
 - [[10_Projects/AI-Driven-Code-Analysis-Workflow/Index|AI Driven Code Analysis Workflow]]
 - [[10_Projects/Laser-Fault-Injection-Skills/Index|Laser Fault Injection Skills]]
 - [[10_Projects/IR-Camera-Component-Identification/Index|IR Camera Component Identification]]
-- [[10_Projects/User-Documentation/Index|User Documentation]]

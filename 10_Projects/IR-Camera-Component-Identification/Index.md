@@ -26,3 +26,7 @@ Develop component identification using an IR camera as an active ongoing work it
 - Define the imaging workflow.
 - Identify the target component classes and expected signatures.
 - Capture how this output supports later attack planning.
+
+## Workstreams
+
+- [[10_Projects/IR-Camera-Component-Identification/20_User-Documentation/Index|User Documentation]]

@@ -13,6 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "10_Projects/Lab-Qualification-Smartcard-Attack-Methods/Index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Index"
+            }
+          },
+          {
+            "id": "fccfb5e8acc25190",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "10_Projects/Index.md",
                 "mode": "source",
                 "source": false
@@ -21,7 +35,8 @@
               "title": "Index"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,11 +198,15 @@
       "bases:新建数据库": false
     }
   },
-  "active": "bd285672e3fc7a38",
+  "active": "fccfb5e8acc25190",
   "lastOpenFiles": [
-    "10_Projects/User-Documentation/Index.md",
+    "10_Projects/IR-Camera-Component-Identification/20_User-Documentation/Index.md",
+    "10_Projects/IR-Camera-Component-Identification/20_User-Documentation",
+    "10_Projects/Lab-Qualification-Smartcard-Attack-Methods/Index.md",
+    "10_Projects/Index.md",
     "10_Projects/IR-Camera-Component-Identification/Index.md",
     "10_Projects/Laser-Fault-Injection-Skills/Index.md",
+    "10_Projects/User-Documentation/Index.md",
     "10_Projects/AI-Driven-Code-Analysis-Workflow/Index.md",
     "10_Projects/Low-Cost-Mounting-Station/Index.md",
     "10_Projects/EMFI-Automation-ChipShouter/Index.md",
@@ -205,10 +224,7 @@
     "10_Projects/Lab-Qualification-Smartcard-Attack-Methods/40_Subprojects/T23-Integrate-Fuse-Attacks-Into-PoCs",
     "10_Projects/Lab-Qualification-Smartcard-Attack-Methods/40_Subprojects/T19-Sensor-Bypass-via-FIB-PoC",
     "10_Projects/Lab-Qualification-Smartcard-Attack-Methods/40_Subprojects/T15-Define-Circuit-Analysis-Methodology",
-    "10_Projects/Lab-Qualification-Smartcard-Attack-Methods/40_Subprojects/T14-CNC-Mechanical-Decapsulation",
-    "10_Projects/Lab-Qualification-Smartcard-Attack-Methods/Index.md",
     "00_Inbox/Index.md",
-    "10_Projects/Index.md",
     "40_Tasks/todo.md",
     "CLAUDE.md",
     "90_System/skills/personal-work-agents/references/ost-presentation-workflow.md",
@@ -219,7 +235,6 @@
     "90_System/skills/json-canvas/references/EXAMPLES.md",
     "90_System/skills/json-canvas/SKILL.md",
     "90_System/skills/personal-work-agents/SKILL.md",
-    "90_System/skills/personal-work-agents/references/obsidian-skills-workflow.md",
-    "90_System/skills/obsidian-markdown/SKILL.md"
+    "90_System/skills/personal-work-agents/references/obsidian-skills-workflow.md"
   ]
 }

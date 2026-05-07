@@ -65,7 +65,6 @@ Primary source: [[10_Projects/Lab-Qualification-Smartcard-Attack-Methods/00_Sour
 - [[10_Projects/AI-Driven-Code-Analysis-Workflow/Index|AI Driven Code Analysis Workflow]]
 - [[10_Projects/Laser-Fault-Injection-Skills/Index|Laser Fault Injection Skills]]
 - [[10_Projects/IR-Camera-Component-Identification/Index|IR Camera Component Identification]]
-- [[10_Projects/User-Documentation/Index|User Documentation]]
 
 ## Related Tasks
 
