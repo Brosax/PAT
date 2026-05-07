@@ -50,6 +50,23 @@ Primary source: [[10_Projects/Lab-Qualification-Smartcard-Attack-Methods/00_Sour
 - Decide which qualification target this project supports.
 - Select the first practical PoC path, likely aligned with laser DFA, circuit analysis, or FIB/sensor goals.
 
+## Subprojects
+
+- [[10_Projects/Lab-Qualification-Smartcard-Attack-Methods/40_Subprojects/T07-Laser-Based-DFA-PoC/Index|T07 - Laser-Based DFA PoC]]
+- [[10_Projects/Lab-Qualification-Smartcard-Attack-Methods/40_Subprojects/T15-Define-Circuit-Analysis-Methodology/Index|T15 - Define Circuit Analysis Methodology]]
+- [[10_Projects/Lab-Qualification-Smartcard-Attack-Methods/40_Subprojects/T14-CNC-Mechanical-Decapsulation/Index|T14 - CNC Mechanical Decapsulation]]
+- [[10_Projects/Lab-Qualification-Smartcard-Attack-Methods/40_Subprojects/T19-Sensor-Bypass-via-FIB-PoC/Index|T19 - Sensor Bypass via FIB PoC]]
+- [[10_Projects/Lab-Qualification-Smartcard-Attack-Methods/40_Subprojects/T23-Integrate-Fuse-Attacks-Into-PoCs/Index|T23 - Integrate Fuse Attacks Into PoCs]]
+
+## Related Ongoing Projects
+
+- [[10_Projects/EMFI-Automation-ChipShouter/Index|EMFI Automation ChipShouter]]
+- [[10_Projects/Low-Cost-Mounting-Station/Index|Low Cost Mounting Station]]
+- [[10_Projects/AI-Driven-Code-Analysis-Workflow/Index|AI Driven Code Analysis Workflow]]
+- [[10_Projects/Laser-Fault-Injection-Skills/Index|Laser Fault Injection Skills]]
+- [[10_Projects/IR-Camera-Component-Identification/Index|IR Camera Component Identification]]
+- [[10_Projects/User-Documentation/Index|User Documentation]]
+
 ## Related Tasks
 
 - [[40_Tasks/todo|Personal Todo Ledger]]
