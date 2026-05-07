@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10_Projects/Lab-Qualification-Smartcard-Attack-Methods/Index.md",
+                "file": "10_Projects/Lab-Qualification-Smartcard-Attack-Methods/40_Subprojects/T07-Laser-Based-DFA-PoC/Index.md",
                 "mode": "source",
                 "source": false
               },
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10_Projects/Lab-Qualification-Smartcard-Attack-Methods/Index.md",
+                "file": "10_Projects/Lab-Qualification-Smartcard-Attack-Methods/40_Subprojects/T07-Laser-Based-DFA-PoC/Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10_Projects/Lab-Qualification-Smartcard-Attack-Methods/Index.md",
+                "file": "10_Projects/Lab-Qualification-Smartcard-Attack-Methods/40_Subprojects/T07-Laser-Based-DFA-PoC/Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10_Projects/Lab-Qualification-Smartcard-Attack-Methods/Index.md",
+                "file": "10_Projects/Lab-Qualification-Smartcard-Attack-Methods/40_Subprojects/T07-Laser-Based-DFA-PoC/Index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -199,11 +199,12 @@
   },
   "active": "4f96b2d183159cc5",
   "lastOpenFiles": [
+    "10_Projects/Lab-Qualification-Smartcard-Attack-Methods/Index.md",
+    "10_Projects/Lab-Qualification-Smartcard-Attack-Methods/40_Subprojects/T07-Laser-Based-DFA-PoC/Index.md",
     "10_Projects/IR-Camera-Component-Identification/Index.md",
     "10_Projects/Index.md",
     "10_Projects/IR-Camera-Component-Identification/20_User-Documentation/Index.md",
     "10_Projects/IR-Camera-Component-Identification/20_User-Documentation",
-    "10_Projects/Lab-Qualification-Smartcard-Attack-Methods/Index.md",
     "10_Projects/Laser-Fault-Injection-Skills/Index.md",
     "10_Projects/User-Documentation/Index.md",
     "10_Projects/AI-Driven-Code-Analysis-Workflow/Index.md",
@@ -213,7 +214,6 @@
     "10_Projects/Lab-Qualification-Smartcard-Attack-Methods/40_Subprojects/T19-Sensor-Bypass-via-FIB-PoC/Index.md",
     "10_Projects/Lab-Qualification-Smartcard-Attack-Methods/40_Subprojects/T14-CNC-Mechanical-Decapsulation/Index.md",
     "10_Projects/Lab-Qualification-Smartcard-Attack-Methods/40_Subprojects/T15-Define-Circuit-Analysis-Methodology/Index.md",
-    "10_Projects/Lab-Qualification-Smartcard-Attack-Methods/40_Subprojects/T07-Laser-Based-DFA-PoC/Index.md",
     "10_Projects/User-Documentation",
     "10_Projects/IR-Camera-Component-Identification",
     "10_Projects/Laser-Fault-Injection-Skills",
