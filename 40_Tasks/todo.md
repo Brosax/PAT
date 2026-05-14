@@ -2,7 +2,7 @@
 type: task-ledger
 status: active
 created: 2026-05-06
-updated: 2026-05-07
+updated: 2026-05-14
 owner: A511741
 tags:
   - tasks
@@ -27,6 +27,7 @@ Timezone: Europe/Madrid
 | T-20260507-03 | CNC-based mechanical decapsulation | TBD | 组目标截图 | Develop mechanical decapsulation using CNC | Group task T14; area: Physical; status: Planned; priority: 3; co-owner: Fernando |
 | T-20260507-04 | Sensor bypass via FIB PoC | TBD | 组目标截图 | Cut sensor connections and evaluate behavior | Group task T19; area: Physical; status: Planned; priority: 5; co-owner: Jose Maria |
 | T-20260507-05 | Integrate fuse attacks into PoCs | TBD | 组目标截图 | Include OTP/fuse in characterization | Group task T23; area: Test Features; status: Planned; priority: 5; co-owner: Jose Maria |
+| T-20260514-01 | 看入职培训的视频 | TBD | 用户指令 2026-05-14 | 观看入职培训视频并记录需要后续处理的事项 | 可在看完后补充完成情况或衍生待办 |
 
 ## Doing
 

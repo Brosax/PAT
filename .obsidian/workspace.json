@@ -4,35 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "949ae1f246f55c7d",
+        "id": "e3606c9a7660a410",
         "type": "tabs",
         "children": [
           {
-            "id": "4f96b2d183159cc5",
+            "id": "ad52b62200b4c730",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10_Projects/Lab-Qualification-Smartcard-Attack-Methods/40_Subprojects/T07-Laser-Based-DFA-PoC/Index.md",
+                "file": "40_Tasks/todo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Index"
-            }
-          },
-          {
-            "id": "fccfb5e8acc25190",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10_Projects/IR-Camera-Component-Identification/Index.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Index"
+              "title": "todo"
             }
           }
         ]
@@ -108,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10_Projects/Lab-Qualification-Smartcard-Attack-Methods/40_Subprojects/T07-Laser-Based-DFA-PoC/Index.md",
+                "file": "40_Tasks/todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Index 的反向链接列表"
+              "title": "todo 的反向链接列表"
             }
           },
           {
@@ -127,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10_Projects/Lab-Qualification-Smartcard-Attack-Methods/40_Subprojects/T07-Laser-Based-DFA-PoC/Index.md",
+                "file": "40_Tasks/todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Index 的出链列表"
+              "title": "todo 的出链列表"
             }
           },
           {
@@ -170,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10_Projects/Lab-Qualification-Smartcard-Attack-Methods/40_Subprojects/T07-Laser-Based-DFA-PoC/Index.md",
+                "file": "40_Tasks/todo.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Index 的大纲"
+              "title": "todo 的大纲"
             }
           }
         ]
@@ -197,11 +183,15 @@
       "bases:新建数据库": false
     }
   },
-  "active": "4f96b2d183159cc5",
+  "active": "ad52b62200b4c730",
   "lastOpenFiles": [
-    "10_Projects/Lab-Qualification-Smartcard-Attack-Methods/Index.md",
+    "00_Inbox/Index.md",
+    "40_Tasks/todo.md",
+    "10_Projects/EMFI-Automation-ChipShouter/Index.md",
+    "10_Projects/Lab-Qualification-Smartcard-Attack-Methods/40_Subprojects/T14-CNC-Mechanical-Decapsulation/Index.md",
     "10_Projects/Lab-Qualification-Smartcard-Attack-Methods/40_Subprojects/T07-Laser-Based-DFA-PoC/Index.md",
     "10_Projects/IR-Camera-Component-Identification/Index.md",
+    "10_Projects/Lab-Qualification-Smartcard-Attack-Methods/Index.md",
     "10_Projects/Index.md",
     "10_Projects/IR-Camera-Component-Identification/20_User-Documentation/Index.md",
     "10_Projects/IR-Camera-Component-Identification/20_User-Documentation",
@@ -209,10 +199,8 @@
     "10_Projects/User-Documentation/Index.md",
     "10_Projects/AI-Driven-Code-Analysis-Workflow/Index.md",
     "10_Projects/Low-Cost-Mounting-Station/Index.md",
-    "10_Projects/EMFI-Automation-ChipShouter/Index.md",
     "10_Projects/Lab-Qualification-Smartcard-Attack-Methods/40_Subprojects/T23-Integrate-Fuse-Attacks-Into-PoCs/Index.md",
     "10_Projects/Lab-Qualification-Smartcard-Attack-Methods/40_Subprojects/T19-Sensor-Bypass-via-FIB-PoC/Index.md",
-    "10_Projects/Lab-Qualification-Smartcard-Attack-Methods/40_Subprojects/T14-CNC-Mechanical-Decapsulation/Index.md",
     "10_Projects/Lab-Qualification-Smartcard-Attack-Methods/40_Subprojects/T15-Define-Circuit-Analysis-Methodology/Index.md",
     "10_Projects/User-Documentation",
     "10_Projects/IR-Camera-Component-Identification",
@@ -223,8 +211,6 @@
     "10_Projects/Lab-Qualification-Smartcard-Attack-Methods/40_Subprojects/T23-Integrate-Fuse-Attacks-Into-PoCs",
     "10_Projects/Lab-Qualification-Smartcard-Attack-Methods/40_Subprojects/T19-Sensor-Bypass-via-FIB-PoC",
     "10_Projects/Lab-Qualification-Smartcard-Attack-Methods/40_Subprojects/T15-Define-Circuit-Analysis-Methodology",
-    "00_Inbox/Index.md",
-    "40_Tasks/todo.md",
     "CLAUDE.md",
     "90_System/skills/personal-work-agents/references/ost-presentation-workflow.md",
     "AGENTS.md",
