@@ -2,7 +2,7 @@
 type: task-ledger
 status: active
 created: 2026-05-06
-updated: 2026-05-14
+updated: 2026-05-15
 owner: A511741
 tags:
   - tasks
@@ -28,7 +28,6 @@ Timezone: Europe/Madrid
 | T-20260507-04 | Sensor bypass via FIB PoC | TBD | 组目标截图 | Cut sensor connections and evaluate behavior | Group task T19; area: Physical; status: Planned; priority: 5; co-owner: Jose Maria |
 | T-20260507-05 | Integrate fuse attacks into PoCs | TBD | 组目标截图 | Include OTP/fuse in characterization | Group task T23; area: Test Features; status: Planned; priority: 5; co-owner: Jose Maria |
 | T-20260514-01 | 看入职培训的视频 | TBD | 用户指令 2026-05-14 | 观看入职培训视频并记录需要后续处理的事项 | 可在看完后补充完成情况或衍生待办 |
-| T-20260514-02 | 问 Juan 如何连接实验室内网 | 2026-05-15 | 用户指令 2026-05-14 | 明天联系 Juan，确认实验室内网的连接方式和所需配置 | 当前已连上 VPN，但还不知道如何连接实验室内网 |
 
 ## Doing
 
@@ -44,3 +43,4 @@ Timezone: Europe/Madrid
 
 | ID | Task | Due | Source | Next | Notes |
 | --- | --- | --- | --- | --- | --- |
+| T-20260514-02 | 问 Juan 如何连接实验室内网 | 2026-05-15 | 用户指令 2026-05-14 | 已完成 | 已确认实验室内网的连接方式和所需配置 |
