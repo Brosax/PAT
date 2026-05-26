@@ -2,7 +2,7 @@
 type: task-ledger
 status: active
 created: 2026-05-06
-updated: 2026-05-15
+updated: 2026-05-26
 owner: A511741
 tags:
   - tasks
@@ -28,6 +28,8 @@ Timezone: Europe/Madrid
 | T-20260507-04 | Sensor bypass via FIB PoC | TBD | 组目标截图 | Cut sensor connections and evaluate behavior | Group task T19; area: Physical; status: Planned; priority: 5; co-owner: Jose Maria |
 | T-20260507-05 | Integrate fuse attacks into PoCs | TBD | 组目标截图 | Include OTP/fuse in characterization | Group task T23; area: Test Features; status: Planned; priority: 5; co-owner: Jose Maria |
 | T-20260514-01 | 看入职培训的视频 | TBD | 用户指令 2026-05-14 | 观看入职培训视频并记录需要后续处理的事项 | 可在看完后补充完成情况或衍生待办 |
+| T-20260526-01 | 知识转移 | TBD | 用户指令 2026-05-26 | 记录并接收同事离职前的知识转移内容 | 今天的重要事项之一；可拆成具体交接清单 |
+| T-20260526-02 | 完成 AI 工作流部分的代码审查 | TBD | 用户指令 2026-05-26 | 审查 AI 工作流相关代码并记录问题 | 代码审查完成后补充结论、风险和待修复项 |
 
 ## Doing
 
