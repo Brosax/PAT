@@ -29,6 +29,7 @@ Timezone: Europe/Madrid
 | T-20260507-05 | Integrate fuse attacks into PoCs | TBD | 组目标截图 | Include OTP/fuse in characterization | Group task T23; area: Test Features; status: Planned; priority: 5; co-owner: Jose Maria |
 | T-20260526-01 | 知识转移 | TBD | 用户指令 2026-05-26 | 记录并接收同事离职前的知识转移内容 | 今天的重要事项之一；可拆成具体交接清单 |
 | T-20260526-02 | 完成 AI 工作流部分的代码审查 | TBD | 用户指令 2026-05-26 | 审查 AI 工作流相关代码并记录问题 | 代码审查完成后补充结论、风险和待修复项 |
+| T-20260609-01 | 使用 AI 部门提供的新工具来连接 AI 服务器 | TBD | 用户指令 2026-06-09 | 获取并测试新工具，验证是否能连接 AI/LLM 服务器 | 支撑任务：T-20260601-02；记录工具名称、配置步骤和连接结果 |
 
 ## Doing
 
