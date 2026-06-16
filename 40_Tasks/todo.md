@@ -2,7 +2,7 @@
 type: task-ledger
 status: active
 created: 2026-05-06
-updated: 2026-06-15
+updated: 2026-06-16
 owner: A511741
 tags:
   - tasks
@@ -29,6 +29,10 @@ Timezone: Europe/Madrid
 | T-20260507-05 | Integrate fuse attacks into PoCs | TBD | 组目标截图 | Include OTP/fuse in characterization | Group task T23; area: Test Features; status: Planned; priority: 5; co-owner: Jose Maria |
 | T-20260526-01 | 知识转移 | TBD | 用户指令 2026-05-26 | 记录并接收同事离职前的知识转移内容 | 今天的重要事项之一；可拆成具体交接清单 |
 | T-20260526-02 | 完成 AI 工作流部分的代码审查 | TBD | 用户指令 2026-05-26 | 审查 AI 工作流相关代码并记录问题 | 代码审查完成后补充结论、风险和待修复项 |
+| T-20260616-01 | 写一个激光注入器的使用手册 | TBD | 用户指令 2026-06-16 | 整理激光注入器的操作步骤、参数说明、注意事项和示例流程 | 主题：激光错误注入 |
+| T-20260616-02 | 尝试一个新的激光注入攻击方式 | TBD | 用户指令 2026-06-16 | 确定新攻击方式、实验条件和预期观测结果 | 主题：激光错误注入 |
+| T-20260616-03 | 生成一个操控代码审查软件的 AI 技能 | TBD | 用户指令 2026-06-16 | 明确目标代码审查软件、输入输出和可复用操作流程 | 主题：AI 代码审查 |
+| T-20260616-04 | 开发关于 AI 代码审查的原生 AI 工作流 | TBD | 用户指令 2026-06-16 | 定义工作流步骤、触发方式、上下文输入和结果产出 | 主题：AI 代码审查 |
 
 ## Doing
 
