@@ -2,7 +2,7 @@
 type: task-ledger
 status: active
 created: 2026-05-06
-updated: 2026-08-12
+updated: 2026-08-21
 owner: A511741
 tags:
   - tasks
@@ -21,7 +21,6 @@ Timezone: Europe/Madrid
 
 | ID | Task | Due | Source | Next | Notes |
 | --- | --- | --- | --- | --- | --- |
-| T-20260506-01 | 阅读 Obsidian AI 中文指南并提取适合当前 vault 的改进点 | TBD | [[30_Resources/Obsidian-AI/Obsidian-AI-v1.0.0-中文版.pdf]] | 重点查看 Vault 架构、AI 维护知识库、真实工作流章节 | Suggested assistant: `file-intake-assistant`; related resource: [[30_Resources/Obsidian-AI/Index]] |
 | T-20260507-01 | Laser-based DFA PoC | TBD | 组目标截图 | Implement DFA using laser with HW acceleration | Group task T07; area: DFA; status: Planned; priority: 1; co-owner: Jose Maria |
 | T-20260507-02 | Define circuit analysis methodology | TBD | 组目标截图 | Prepare documentation, references, and examples | Group task T15; area: Physical; status: Planned; priority: 1; co-owner: Jose Maria |
 | T-20260507-03 | CNC-based mechanical decapsulation | TBD | 组目标截图 | Develop mechanical decapsulation using CNC | Group task T14; area: Physical; status: Planned; priority: 3; co-owner: Fernando |
@@ -56,3 +55,4 @@ Timezone: Europe/Madrid
 | T-20260601-02 | 连接 AI 部门 LLM 服务器用于本地部署 | 2026-06-18 | 用户指令 2026-06-01 | 已完成 | 已完成 AI/LLM 服务器连接确认 |
 | T-20260609-01 | 使用 AI 部门提供的新工具来连接 AI 服务器 | 2026-06-18 | 用户指令 2026-06-09 | 已完成 | 作为 AI/LLM 服务器连接支撑任务一并完成 |
 | T-20260616-01 | 写一个激光注入攻击教程 | 2026-07-29 | 用户指令 2026-06-16；更新 2026-08-07 | 已完成初版 | 主题：激光错误注入；已于本周一完成初版，后续如需完善可另建任务 |
+| T-20260506-01 | 阅读 Obsidian AI 中文指南并提取适合当前 vault 的改进点 | TBD | [[30_Resources/Obsidian-AI/Obsidian-AI-v1.0.0-中文版.pdf]] | 已完成 | 已完成指南阅读并提取适合当前 vault 的改进点；相关资源：[[30_Resources/Obsidian-AI/Index]] |
