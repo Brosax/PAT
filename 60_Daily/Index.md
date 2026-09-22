@@ -2,16 +2,33 @@
 type: daily-index
 status: active
 created: 2026-05-06
-updated: 2026-05-06
+updated: 2026-09-22
 owner: A511741
 tags:
   - daily
 ---
 
-# Daily Notes
+# 工作日志
 
-Daily notes use `YYYY-MM-DD.md` and act as daily work entry points.
+从 2026-09-22 启用。在本资料库的对话中描述工作任务、进展或完成情况，助理会保存原话及摘要，并提供记录链接。待办清单的变更仍需单独确认。
 
-## Recent Notes
+每日笔记以记录日期命名为 `YYYY-MM-DD.md`，记录时间与事情发生时间分别保存。补录历史事项时，还会在发生周的索引中加入引用。
 
-- 
+## 每周入口
+
+- [[60_Daily/Weekly/Index|每周工作索引]]
+
+## 最近日志
+
+尚无工作日志。收到第一条工作描述时创建当天笔记；仅查询或讨论方案不创建日志。
+
+## 查找记录
+
+可以直接问“这周我完成了什么？”“某项目最近有什么进展？”或“我什么时候说过某件事？”。回答会链接到原始条目；没有明确发生日期的事项会单独说明。
+
+也可在 Obsidian 搜索 `path:60_Daily 关键词`，或通过项目链接、日期和每周入口浏览。
+
+## 记录规则
+
+- [[90_System/skills/personal-work-agents/references/work-log-workflow|自动记录、时间戳与更正规则]]
+- [[40_Tasks/todo|待办清单]]

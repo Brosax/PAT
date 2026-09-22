@@ -1,7 +1,7 @@
 interface:
   display_name: "Personal Work Agents"
-  short_description: "Obsidian work vault and daily task briefs"
-  default_prompt: "Use $personal-work-agents to organize my Obsidian work vault, triage Inbox, extract confirmed tasks, and generate my daily brief."
+  short_description: "Automatic work logs, history search, and confirmed tasks"
+  default_prompt: "Use $personal-work-agents to record my work updates in the PAT vault, find past progress, and propose task changes for confirmation."
 
 policy:
   allow_implicit_invocation: true

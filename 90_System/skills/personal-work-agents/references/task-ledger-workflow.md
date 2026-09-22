@@ -34,11 +34,13 @@ Do not treat these as tasks by default:
 
 - Background facts, general ideas, preferences, or vague possibilities.
 - A workflow rule that belongs in memory rather than the todo ledger.
-- A completed historical action unless it creates a follow-up.
+- A completed historical action unless it updates an existing task or creates a follow-up. Save historical completion facts in the work log even when no ledger change is needed.
 
 ## Confirmation Gate
 
 Never write extracted candidates to `todo.md` immediately.
+
+For work descriptions, first follow `work-log-workflow.md` to save the authorized log without waiting for task confirmation. Show only new or changed task candidates; link each candidate to its log item and identify any existing task ID. If the user declines a candidate, keep the factual log and leave the ledger unchanged.
 
 First present:
 
@@ -52,15 +54,17 @@ First present:
    Notes: Suggested assistant: ...
 ```
 
-Write only when the user clearly confirms, for example:
+Write only when the user clearly confirms task changes, for example:
 
-- "确认记录"
+- "确认记录" in direct response to the displayed task candidates
 - "写入待办"
 - "确认第 1 条"
 - "确认第 1、3 条"
-- "把这些都记录下来"
+- "把这些都记录下来" in direct response to the displayed task candidates
 
 If confirmation references item numbers, write only those items.
+
+A generic request to record work, the automatic logging authorization, or saying "已完成" is not task confirmation. If the confirmation's target is ambiguous, save any factual work description and clarify which ledger changes the user intends.
 
 ## Writing And Updating
 
@@ -72,12 +76,14 @@ When adding tasks:
 - Add new tasks to the table matching their status.
 - Use `TBD` when no deadline is available.
 - Use a short source label plus an absolute path when a file caused the task.
+- When a log caused the task, use a wikilink to the specific log item in `Source`; escape `|` in table cells or use a link without an alias.
 
 When updating tasks:
 
 - Match by explicit task id whenever possible.
 - If no id is provided, show likely matches and ask before changing ambiguous tasks.
 - Move completed tasks to `Done` and set notes to include completion context when useful.
+- For a confirmed update, retain the original source and add the supporting log-item link in `Notes`. In the daily note's `Tasks` section, append a dated receipt linking the candidate item and task ID; do not rewrite the original work report. Keep unconfirmed candidates out of the ledger.
 
 ## Suggested Assistants
 

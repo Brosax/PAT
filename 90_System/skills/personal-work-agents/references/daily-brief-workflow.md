@@ -5,10 +5,11 @@ Use this reference for morning introductions and end-of-day summaries.
 ## Shared Rules
 
 - Read `40_Tasks/todo.md` first.
+- Read relevant work logs following `work-log-workflow.md`; follow corrections and use occurrence dates, not recording dates, for completion claims. Query the daily logs as well as indexes so late reports are included.
 - Interpret today in `Europe/Madrid`.
 - Use absolute dates for due dates and overdue items.
 - Output to the current Codex thread by default.
-- Do not create daily archive files unless the user explicitly asks.
+- Do not save generated briefs or create empty notes just for a query. Separately save new factual user work descriptions under the automatic work-log authorization.
 
 ## Morning Brief
 
@@ -31,7 +32,7 @@ Default schedule: weekdays at 16:30 Europe/Madrid.
 
 Include:
 
-- What appears completed from `Done` items updated today.
+- Work logged as completed today, supported by occurrence dates and item links. Do not infer completion dates from the ledger's overall `updated` property. Separate undated completion reports and unconfirmed task-ledger changes.
 - Still-open `Doing`, `Todo`, and urgent `Inbox` items.
 - Waiting items and blockers.
 - Suggested tomorrow priorities.

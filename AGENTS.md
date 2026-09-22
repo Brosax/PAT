@@ -57,8 +57,11 @@ The main orchestrating skill lives at `90_System/skills/personal-work-agents/SKI
 3. **Daily briefs** - morning (08:00) and end-of-day (16:30) summaries from the task ledger.
 4. **Reports** - mixed work package reports to `50_Reports/`.
 5. **Vault organization** - folder triage, indexing, and archiving.
+6. **Automatic work log** - save work descriptions received in this vault's conversations to daily notes, maintain weekly indexes, and answer history queries with source links. Read `90_System/skills/personal-work-agents/references/work-log-workflow.md` before recording or searching work history.
 
 All writes to the task ledger and personal memory require explicit user confirmation.
+
+Work logging is authorized from 2026-09-22 onward without per-message confirmation. Preserve the user's relevant original words and structured facts, with separate recording and occurrence times in Europe/Madrid. Exclude general questions, workflow/design discussions, examples, and anything marked "不记录". Do not backfill previous conversations. A completion report is permission to log it, not permission to change the task ledger. This is an agent workflow during active conversations, not a background listener. Apply it only in this vault; use the repository's workflow as the source of truth if an installed skill copy differs.
 
 ## Validation Guidelines
 

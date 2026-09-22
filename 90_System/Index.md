@@ -2,7 +2,7 @@
 type: system-index
 status: active
 created: 2026-05-06
-updated: 2026-05-06
+updated: 2026-09-22
 owner: A511741
 tags:
   - system
@@ -16,6 +16,8 @@ tags:
 - [[90_System/skills/personal-work-agents/references/obsidian-skills-workflow|Obsidian Skills Workflow]]
 - [[90_System/skills/personal-work-agents/references/git-sync-workflow|Git Sync Workflow]]
 - [[90_System/skills/personal-work-agents/references/ost-presentation-workflow|OST Presentation Workflow]]
+- [[90_System/skills/personal-work-agents/references/work-log-workflow|自动工作日志流程]]
+- [[60_Daily/Index|工作日志与每周索引]]
 
 ## Git Backup
 

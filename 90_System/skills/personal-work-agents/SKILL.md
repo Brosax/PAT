@@ -1,6 +1,6 @@
 ---
 name: personal-work-agents
-description: Personal work assistant workflows for an Obsidian-based local work vault, Inbox triage, project and area indexing, Obsidian Markdown/Canvas/Bases-aware edits, task capture, confirmed Markdown todo updates, daily morning and end-of-day briefs, report project packages, and turning repeated work patterns into Codex skills. Use when the user asks to process local work files, organize the vault, triage Inbox, create project indexes, modify Obsidian notes or vault files, extract tasks from a conversation or files, record assigned tasks, update todo.md, generate a morning brief, generate an end-of-day summary, summarize a work process as a skill, or coordinate scenario-based personal AI assistants.
+description: Personal work assistant for the PAT Obsidian vault. Use when the user describes work plans, tasks, progress, blockers, decisions, or completed work in vault conversations, even without an explicit logging request; automatically preserve work logs and maintain weekly indexes. Also use for work-history queries, Inbox triage, project indexing, confirmed todo updates, daily briefs, report packages, and reusable workflow skills. General questions, workflow design discussions, examples, and messages marked not to record do not trigger logging.
 ---
 
 # Personal Work Agents
@@ -9,9 +9,9 @@ description: Personal work assistant workflows for an Obsidian-based local work 
 
 Operate as a local-first personal work assistant for the Obsidian vault at `C:\Users\A511741\Desktop\AA_Personal Agent Team`.
 
-- Read only the files or folders the user provides, plus this skill's references and the local task ledger when needed.
+- Read the files or folders the user provides, this skill's references, and the local task ledger when needed. For work logging and retrieval, also read daily logs, weekly indexes, templates, and relevant project/area indexes within this vault.
 - Do not browse the web or use external systems for private work content unless the user explicitly asks.
-- Keep long-term memory explicit: propose memory or task candidates first, then write only after clear confirmation.
+- Work logs are automatically authorized in this vault from 2026-09-22; task-ledger changes and personal preference memory still require explicit confirmation. Do not treat permission to log as permission to update either.
 - Prefer Chinese for user-facing work products unless the source material or user request calls for another language.
 - Use absolute dates when resolving deadlines or daily summaries.
 - Preserve code files if they appear in the vault, but do not analyze code by default unless the user explicitly asks.
@@ -25,6 +25,7 @@ Operate as a local-first personal work assistant for the Obsidian vault at `C:\U
 
 Choose the smallest workflow that satisfies the request:
 
+- Work descriptions, progress/completion reports, corrections, and work-history queries: read `references/work-log-workflow.md`. Apply the logging trigger even when the user does not say "record". Use the vault's copy as authoritative; automatic logging does not apply to conversations outside this vault.
 - Task capture, assignment, or todo updates: read `references/task-ledger-workflow.md`.
 - Git preflight, backup, commit, or sync behavior: read `references/git-sync-workflow.md`.
 - Morning brief or end-of-day summary: read `references/daily-brief-workflow.md`.
@@ -42,15 +43,15 @@ Use `40_Tasks/todo.md` as the single human-readable task ledger.
 - Extract tasks from conversations, documents, meeting notes, emails copied into chat, or project package files.
 - Classify each candidate as `Inbox`, `Todo`, `Doing`, `Waiting`, or `Done`.
 - Default owner is the user; suggest a scenario assistant only as help, not as the real-world accountable owner.
-- Present task candidates before writing. Write only after explicit confirmation such as "确认记录", "写入待办", or "确认第 1、3 条".
+- Present task candidates before writing. Write only after explicit task confirmation such as "写入待办" or "确认第 1、3 条" in response to the candidate list. A generic "记录一下" requests a log, not a task-ledger update.
 
 ## Daily Briefs
 
 Generate daily briefs from `40_Tasks/todo.md`.
 
 - Morning brief: today's focus, due or overdue tasks, waiting items, and three recommended first actions.
-- End-of-day summary: completed work, unfinished items and why, suggested tomorrow priorities, and anything needing user confirmation.
-- Do not create extra daily files in v1 unless the user asks; output the brief in the current Codex thread.
+- End-of-day summary: use work logs for dated completion evidence, then the ledger for confirmed task state; distinguish logged progress from unconfirmed ledger changes.
+- Output briefs in the current conversation by default. Work descriptions are saved separately by the work-log workflow; do not copy generated briefs into logs or create empty daily notes for a query.
 
 ## Report Project Packages
 

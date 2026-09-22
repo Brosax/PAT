@@ -2,7 +2,7 @@
 type: templates-index
 status: active
 created: 2026-05-06
-updated: 2026-05-06
+updated: 2026-09-22
 owner: A511741
 tags:
   - templates
@@ -13,4 +13,5 @@ tags:
 - [[70_Templates/Project Index|Project Index]]
 - [[70_Templates/Area Index|Area Index]]
 - [[70_Templates/Daily Note|Daily Note]]
+- [[70_Templates/Weekly Work Index|每周工作索引模板]]
 - [[70_Templates/Inbox Triage|Inbox Triage]]

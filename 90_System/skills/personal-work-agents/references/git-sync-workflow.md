@@ -24,6 +24,8 @@ The preflight must:
 - Fast-forward pull when an upstream branch exists.
 - Report local status before edits.
 
+Stop before editing when any Git step fails (including permission/network errors or fast-forward conflicts). Preserve existing files and report that the pending work log has not been saved. The scripts must return a nonzero exit code on native Git failure; a final status listing alone is not evidence of successful sync.
+
 If there are uncommitted local changes before starting unrelated work, inspect them and do not overwrite them.
 
 ## After Changes
@@ -42,6 +44,8 @@ The backup must:
 - Report the final status.
 
 If there is no diff, report that no backup commit was needed.
+
+If a previous attempt committed locally but failed to push, the next backup must still push even when the working tree has no new diff. Do not append the same log again. Verify local writes separately from remote backup; after a push failure say "本地已保存，远端备份未完成" and retain the local data.
 
 ## Safety
 
